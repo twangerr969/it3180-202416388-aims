@@ -1,0 +1,1 @@
+Mini project for IT3180 - Introduction to Software Engineering.
