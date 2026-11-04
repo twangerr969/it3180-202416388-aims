@@ -17,6 +17,10 @@ class TestDiscount(unittest.TestCase):
         with self.assertRaises(ValueError):
             calculate_discounted_total(100, 150)
 
+    def test_negative_discount_percent(self):
+        with self.assertRaises(ValueError):
+            calculate_discounted_total(100, -10)
+
 
 if __name__ == "__main__":
     unittest.main()
