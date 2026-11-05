@@ -4,9 +4,12 @@ Tất cả những thay đổi đáng chú ý của dự án sẽ được ghi l
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-11-05
+
 ### Added
 - Bổ sung chức năng sắp xếp DVD trong giỏ hàng theo tên.
 - Bổ sung chức năng sắp xếp DVD trong giỏ hàng theo giá.
+- Bổ sung chức năng tìm kiếm DVD theo thể loại.
 
 ## [1.0.0] - 2026-11-05
 
