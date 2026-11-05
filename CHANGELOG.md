@@ -4,6 +4,11 @@ Tất cả những thay đổi đáng chú ý của dự án sẽ được ghi l
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-11-05
+
+### Added
+- Backport chức năng tìm kiếm DVD theo thể loại (`search_by_category`) từ nhánh master.
+
 ## [1.0.0] - 2026-11-05
 
 ### Added
